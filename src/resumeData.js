@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"",
+    "imgurl":"images/profile.jpg",
     "name": "Shay Mathis",
     "role": "Full Stack Developer",
     "linkedinId":"Your LinkedIn Id",
@@ -73,22 +73,26 @@ let resumeData = {
       {
         "name":"project1",
         "description":"Doctor Proctor",
-        "imgurl":"images/portfolio/project2.jpg"
+        "imgurl":"images/portfolio/project2.jpg",
+        "url":"https://doctor-proctor.herokuapp.com/doctors/welcome"
       },
       {
         "name":"project2",
         "description":"Password Generator",
-        "imgurl":"images/portfolio/project.jpg"
+        "imgurl":"images/portfolio/project.jpg",
+        "url":"https://github.com/mathisshayy/PasswordGenerator.github.io"
       },
       {
         "name":"project3",
         "description":"The Cocktail Curator",  
-        "imgurl":"images/portfolio/project3.jpg"
+        "imgurl":"images/portfolio/project3.jpg",
+        "url":"https://github.com/ShaneD42/Project-1"
       },
       {
         "name":"project4",
         "description":"Biz Cards",
-        "imgurl":"images/portfolio/project4.jpg"
+        "imgurl":"images/portfolio/project4.jpg",
+        "url":"https://biz-cardss.herokuapp.com/"
       }
     ],
     "testimonials":[
