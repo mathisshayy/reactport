@@ -23,6 +23,7 @@ export default class Footer extends Component {
         </div>
         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a></div>
       </div>
+      <div class="fb-like" data-href="https://reactportfol.herokuapp.com/" data-width="" data-layout="standard" data-action="like" data-size="small" data-share="true"></div>
     </footer>
     );
   }

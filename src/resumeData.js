@@ -1,6 +1,6 @@
 let resumeData = {
     "imgurl":"images/profile.jpg",
-    "name": "Shay Mathis",
+    "name": "Shé Mathis",
     "role": "Full Stack Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
@@ -8,7 +8,7 @@ let resumeData = {
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/shay-mathis-1a525b50",
+          "url":"https://www.linkedin.com/in/shé-mathis-1a525b50",
           "className":"fa fa-linkedin"
         },
         {
@@ -35,7 +35,7 @@ let resumeData = {
       },
       {
         "UniversityName":"Indiana Tech",
-        "specialization":"Business Administration",
+        "specialization":"Business Administration/Communications",
         "MonthOfPassing":"December",
         "YearOfPassing":"2021",
         "Achievements":""
